@@ -1,0 +1,68 @@
+
+EFFECTIVE DATE: June 09, 2019
+
+Copyright 2019 APIS Point LLC
+
+This Non-Commercial Software License Agreement (Agreement) is between
+APIS Point LLC a Virginia limited liability company (AP) and you, the entity or
+individual entering into this Agreement (User). The AP software and
+documentation provided to User (Software) are licensed and are not sold.
+
+1. SCOPE. This Agreement describes the licensing of the Software provided to
+User on a non-commercial basis. If User desires to use the Software on a
+commercial basis, it must separately purchase a commercial-use license from AP.
+
+2. LICENSE. Subject to the other terms of this Agreement, AP grants User a
+perpetual, free-of-charge, non-exclusive, non-transferable, non-commercial
+license to:
+
+   a. Use the Software only (i) in an educational institution environment,
+      (ii) in a personal capacity, or (iii) for non-commercial, evaluation
+      purposes in User’s internal business operations, subject to Section 3 (a)
+      below.
+
+3. RESTRICTIONS. User is specifically prohibited from:
+
+   a. Transferring, assigning, sublicensing, or renting the Software or using it
+      in any type of software service provider or outsourcing environment where
+      any part of the functionality of the Software is provided to a third
+      party;
+   b. Causing or permitting the reverse engineering, decompiling, disassembly,
+      or translation of the Software to discover the source code or create a
+      functional equivalent; or
+   c. Evaluating or using, or facilitating the evaluation or use, of the
+      Software for the purpose of competing with AP.
+
+AP reserves all rights not expressly granted.
+
+Privacy Terms. AP may collect certain data and information from User and your
+end users ("Secondary Users") in connection with your Secondary Users' use of
+the Software, Service, and Site.
+
+Licensed Territory. Shall be limited to the United States of America.
+
+Territorial Restriction. User and your Secondary Users' in connection with the
+use of the software are not located in, under the control of, or a national or
+resident of any country outside the United States of America.
+
+Enforceability. If any term of this Agreement is invalid or unenforceable, the
+other terms remain in effect.
+
+Trademarks. This license does not grant you any right in the trademarks, service
+marks, brand names or logos of AP.
+
+Unilateral Modification. AP shall have the right at any time to modify this
+Agreement without prior notification or approval.
+
+Right to Terminate. This Agreement may be terminated by AP at any time and
+without reason.
+
+Termination. If you violate the terms of this license, your rights will
+terminate automatically and will not be reinstated without the prior written
+consent of AP.
+
+DISCLAIMER. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OR CONDITION,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. USERS HEREBY DISCLAIM
+ALL LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE.
