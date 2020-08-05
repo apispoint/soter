@@ -52,6 +52,3 @@ We have used the following additive (3D Printing) manufactures and services:
 - 3D Hubs
 
 We recommend using Selective Laser Sintering (SLS) technology when manufacturing the enclosure due to the exacting measures required to mount the electronics and couple the enclosure bodies.
-
-### Operational Notes
-* SO+ER transmits, processes, and stores data on cloud servers in the United States of America.
