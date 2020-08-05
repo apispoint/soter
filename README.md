@@ -55,4 +55,3 @@ We recommend using Selective Laser Sintering (SLS) technology when manufacturing
 
 ### Operational Notes
 * SO+ER transmits, processes, and stores data on cloud servers in the United States of America.
-* Use a firewall to deny all collector network traffic on port 22 (SSH).
