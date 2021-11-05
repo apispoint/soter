@@ -5,6 +5,11 @@ SO+ER demonstrates the power of open-source hardware (OSH) to enable the first n
 
 Creating a better tomorrow with today's technology.
 
+### SO+ER Firmware
+#### UPDATE: November 2021
+
+We are planning to release the SO+ER firmware for non-commericial use. Commericial and non-profit entities may purchase the source code. [Contact us](mailto:ap.web.user@gmail.com) at our community email for source code pricing.
+
 ### Reference Architecture
 This Do-It-Yourself (DIY) project contains an array of microphones, sensors, and an internet enabled single-board computer. The collector listens for and records sharp sounds with high levels of energy. Recordings are analyzed in the cloud using machine learning to categorize the characteristics. SO+ER is configurable to notify you when a detection is received.
 
